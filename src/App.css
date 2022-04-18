@@ -1,5 +1,24 @@
 .App {
-  text-align: center;
+  padding: 30px 15px;
+  margin: 0 auto;
+  
+}
+
+.products-list li{
+  margin-bottom: 30px;
+}
+
+form{
+  margin-bottom: 50px;
+}
+
+form .input-container{
+  margin-bottom: 10px;
+}
+
+form .input-container input{
+  display: block;
+  margin: 5px 0 0 10px;
 }
 
 .App-logo {
